@@ -1,0 +1,6 @@
+streamlit>=1.36
+groq>=0.11
+pypdf>=4.2
+scikit-learn>=1.4
+numpy>=1.26
+python-dotenv>=1.0
